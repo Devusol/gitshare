@@ -1,1 +1,6 @@
-style sheet wow
+html {
+    color: red;
+    text-align: center;
+    background: black;
+    font-size: 1000;
+}
